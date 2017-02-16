@@ -1,1 +1,4 @@
 new file
+Adding line 2 in foo
+Adding line 3 in foo
+Adding line 4 in foo
