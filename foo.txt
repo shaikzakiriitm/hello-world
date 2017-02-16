@@ -2,3 +2,4 @@ new file
 Adding extra content
 Adding text second time
 Adding text third time
+One extra line
